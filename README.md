@@ -9,3 +9,20 @@ This project simulates a basic ATM machine using Java. It allows users to intera
 6. ❌ Exit Session.
 
 This project includes features like dynamic PIN setup, initial balance input, and a security question fallback if the PIN is forgotten.
+
+## Sample Output
+
+**Balance Check**
+![Balance Check](Balancecheck.png)
+
+**Deposit Money**
+![Deposit Money](Deposit.png)
+
+**Withdraw Money**
+![Withdraw Money](Withdraw.png)
+
+**Change PIN**
+![Change PIN](Changepin.png)
+
+**Exit**
+![Exit](Exit.png)
