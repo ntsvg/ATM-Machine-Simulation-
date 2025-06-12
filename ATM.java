@@ -81,7 +81,7 @@ public class ATM{
                             System.out.println("Invalid deposit amount.");
                         }
                         else{
-                            accountBalance = accountBalance+deposit;
+                            accountBalance += deposit;
                             System.out.println("Deposited Successfully. New balance: $"+accountBalance);
                         }
                         break;
