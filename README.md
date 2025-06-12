@@ -1,4 +1,4 @@
-🏦 ATM Machine Simulation (Java)
+🏦 ATM Machine Simulation (JAVA)
 
 This project simulates a basic ATM machine using Java. It allows users to interact with an ATM-like interface via the terminal, performing common banking operations such as:
 1. ✅ PIN verification & security question recovery.
